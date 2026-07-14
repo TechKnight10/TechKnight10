@@ -1,187 +1,184 @@
-# Hi, I'm Kalmit Kulkarni 👋
+<!-- ========================================================= -->
+<!--                     ANIMATED HEADER                        -->
+<!-- ========================================================= -->
 
-<div align="center">
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:3B0764,30:5B21B6,60:7C3AED,100:4F46E5&text=Kalmit%20Kulkarni&fontSize=52&fontAlignY=38&fontColor=ffffff&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20NLP%20Researcher&descAlignY=58&animation=fadeIn"/>
+</p>
 
-**NLP Researcher | Full Stack Developer | Machine Learning Enthusiast**
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kulkarnikalmit@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kalmitkulkarni1012)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TechKnight10)
-
-</div>
-
----
-
-## 🔬 About Me
-
-I'm a **Computer Science Engineering student** at VIT passionate about NLP and machine learning. Currently working as an **NLP Researcher at MBZUAI** on multilingual evaluation metrics for Indian languages. I love building end-to-end solutions that bridge research and practical applications.
-
-- 🎓 **BTech CS Engineering** @ Vellore Institute of Technology (Sept 2021 – May 2025)
-- 🚀 **NLP Researcher** @ MBZUAI, Abu Dhabi (Aug 2024 – Present)
-- 📝 **Published** at ACL 2026 (Main Conference)
-- 🌐 **MERN Stack Developer** with experience in production-level applications
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&pause=1000&center=true&vCenter=true&width=900&lines=AI+Engineer;Software+Engineer;NLP+Researcher+%40+MBZUAI;ACL+2026+Main+Conference+Author;Full+Stack+Developer;Building+Reliable+AI+Systems;Open+Source+Contributor" />
+</p>
 
 ---
 
-## 📚 Featured Publications
+<p align="center">
 
-### **Revisiting Metric Reliability for Fine-grained Evaluation of Machine Translation and Summarization in Indian Languages**
-**ACL 2026** (San Diego, California, United States) — Main Conference ✅
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Science-6D28D9?style=for-the-badge&logo=academia&logoColor=white"/>
 
-*Co-authors: Amir Hossein Yari (Sharif Univ.), Ahmad Raza Khan (IIT Kharagpur), Dr. Fajri Koto (MBZUAI)*
+<img src="https://img.shields.io/badge/ACL%202026-Main%20Conference-4F46E5?style=for-the-badge&logo=semanticweb&logoColor=white"/>
 
-📄 [Read on arXiv](https://arxiv.org/abs/2510.07061)
+<img src="https://img.shields.io/badge/NLP-Researcher-5B21B6?style=for-the-badge&logo=pytorch&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/MERN-Full%20Stack-7C3AED?style=for-the-badge&logo=react&logoColor=white"/>
 
-## 🎯 Current Research
+</p>
 
-### LIME (Linguistic India Metrics Evaluator)
-A comprehensive multilingual benchmark for evaluating automatic metrics in NLP across **6 Indian languages**
+<p align="center">
 
-**Key Achievements:**
-- 🔬 Conducted large-scale correlation analysis between human judgment and automatic metrics (BLEU, ROUGE, COMET, GPTScore, G-Eval)
-- 📊 Implemented evaluation pipelines for MT (Adequacy, Fluency) and Summarization (Faithfulness, Focus, Coverage)
-- 🌍 Benchmarked performance on low-resource, morphologically rich Indian languages
-- 🛠️ Built scalable pipelines using Hugging Face Transformers and OpenAI/Cohere APIs
+<a href="https://maps.google.com/?q=Mumbai,India">
+<img src="https://img.shields.io/badge/Mumbai,%20India-18181B?style=for-the-badge&logo=googlemaps&logoColor=8B5CF6"/>
+</a>
 
-**Tech Stack:** Python • PyTorch • Hugging Face • OpenAI API • Cohere • IndicBART • IndicTRANS2 • Scikit-learn
+<a href="https://portfolio.example.com">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
----
+<a href="https://linkedin.com/in/kalmitkulkarni1012">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-## 💼 Experience
+<a href="mailto:kulkarnikalmit@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-### **NLP Researcher** | MBZUAI, Abu Dhabi (Remote)
-*Aug 2024 – Present*
-- Leading research on multilingual NLP evaluation metrics
-- Working with Dr. Fajri Koto on publication-ready research
+<a href="https://github.com/TechKnight10">
+<img src="https://img.shields.io/badge/GitHub-TechKnight10-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### **MERN Stack Intern** | Ethnus
-*Aug 2023 – Dec 2023*
-- Developed dynamic music streaming application (Mewsic) using MERN stack
-- Improved UI responsiveness by 25% using ReactJS & Figma
-- **Certificate:** [View Credential](https://ethnus.com/certverify) - HRTWN6JS
+</p>
 
----
+<p align="center">
 
-## 🚀 Featured Projects
+<img src="https://komarev.com/ghpvc/?username=TechKnight10&style=for-the-badge&color=7C3AED"/>
 
-### 1. **Multilingual Summarization Pipeline**
-Building cross-lingual summarization across English ↔ Hindi, Gujarati, Bengali, Telugu, Tamil
+<img src="https://img.shields.io/github/followers/TechKnight10?style=for-the-badge&color=4F46E5&label=Followers"/>
 
-- Fine-tuned IndicBART on Indian news articles
-- Integrated GPT-4o Mini & Cohere's Command R+
-- 🔗 [GitHub Repository](https://github.com/TechKnight10)
+<img src="https://img.shields.io/github/stars/TechKnight10?style=for-the-badge&color=6D28D9&label=Stars"/>
 
-**Tech:** Python • Transformers • PyTorch • Hugging Face XLSum • Google Colab • OpenAI API • Cohere API
-
-### 2. **Machine Translation with IndicTRANS2**
-Multi-language translation pipeline with FLORES-200 evaluation
-
-- Evaluated using BLEU scoring and Cohere's Command R+
-- Support for 5+ Indian languages
-- 🔗 [GitHub Repository](https://github.com/TechKnight10)
-
-**Tech:** IndicTRANS2 • GPT-4o Mini • Cohere API • BLEU • NLTK
-
-### 3. **Personal Finance Agent** 🤖
-AI-powered financial analysis tool with privacy-preserving inference
-
-- Extracts & structures transactions from PDF bank statements
-- Features: Merchant normalization, categorization, anomaly detection, goal tracking
-- Local LLM inference via Ollama with policy guardrails
-- 🔗 [GitHub Repository](https://github.com/PersonalFinance-Agent)
-
-**Tech:** Python • Flask • PostgreSQL • Ollama • React • TypeScript • PDF Parsing
-
-### 4. **Alzheimer's Disease Detection**
-Deep learning pipeline for medical image classification
-
-- Transfer learning with ResNet and attention visualization
-- Handled class imbalance with imblearn
-- 🔗 [Google Colab Notebook](https://colab.research.google.com)
-
-**Tech:** TensorFlow • PyTorch • TorchVision • OpenCV • Scikit-learn
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+# About Me
 
-<div align="center">
+I'm a **Software Engineer and AI Researcher** passionate about designing scalable, production-grade intelligent systems that bridge cutting-edge research with real-world software engineering.
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+Currently working as an **NLP Researcher under Dr. Fajri Koto (MBZUAI)**, my work focuses on multilingual Natural Language Processing, evaluation metrics, Machine Translation, and Large Language Models. I am also an **ACL 2026 Main Conference Author**, contributing to research on reliable evaluation methodologies for Indian languages.
 
-### ML & NLP
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/🤗-Hugging%20Face-FFD21E?style=flat-square)
-![Scikit-learn](https://img.shields.io/badge/Scikit%20learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+My engineering philosophy centers around building AI systems that are:
 
-### Web Development
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)
+- scalable
+- reproducible
+- privacy-aware
+- enterprise-ready
+- production deployable
 
-### Tools & Platforms
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+Alongside research, I enjoy architecting modern full-stack applications, designing AI workflows, and building products that combine strong backend engineering with intuitive user experiences.
 
-</div>
+### Engineering Interests
 
----
-
-## 🏆 Certifications
-
-| Certification | Organization | Date | Score |
-|---|---|---|---|
-| **Introduction to Self-Driving Cars** | Coursera | Jan 2023 | 99.60% ⭐ |
-| **Computer Vision** | Vityarthi | Sep 2023 | - |
-| **Google Cloud Computing Foundation** | Google Cloud | Jan 2024 | [View Profile](https://cloudskillsboost.google/public_profiles/5545c2c5-dbb0-465c-86cc-654d5598ac7e) |
-| **NPTEL Cloud Computing Course** | NPTEL | Apr 2024 | - |
+- Artificial Intelligence
+- Machine Learning
+- Natural Language Processing
+- Large Language Models
+- Software Engineering
+- Distributed Systems
+- Backend Development
+- Full Stack Applications
+- Product Engineering
+- Open Source
 
 ---
 
-## 📊 GitHub Stats
+## Open To
 
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/TechKnight10?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/TechKnight10?style=social)
-
-</div>
-
----
-
-## 🎯 What I'm Currently Working On
-
-- 🔬 Publishing research on multilingual NLP evaluation metrics
-- 🌐 Building scalable NLP pipelines for Indian languages
-- 💡 Exploring applications of LLMs in low-resource language processing
-- 🚀 Contributing to open-source NLP projects
+- AI Engineering Roles
+- Software Engineering Roles
+- Machine Learning Engineering
+- NLP Research
+- Applied AI
+- Backend Engineering
+- Full Stack Development
+- Open Source Collaboration
+- Research Internships
+- International Opportunities
 
 ---
 
-## 💡 Let's Collaborate!
+# Tech Stack
 
-I'm always interested in:
-- **NLP Research** projects, especially for multilingual & low-resource languages
-- **Full Stack Development** with focus on ML-powered applications
-- **Open Source Contributions** to ML/NLP frameworks
+## Languages
 
-Feel free to reach out! 📧
+<p align="center">
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,javascript,typescript,html,css,sql"/>
 
-[![Email](https://img.shields.io/badge/Contact%20Me-kulkarnikalmit@gmail.com-blue?style=for-the-badge)](mailto:kulkarnikalmit@gmail.com)
+</p>
 
-**Made with ❤️ by Kalmit Kulkarni**
+---
 
-</div>
+## Frontend
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,bootstrap,tailwind,figma"/>
+
+</p>
+
+---
+
+## Backend & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,postgres,mysql"/>
+
+</p>
+
+---
+
+## Cloud • DevOps • Tooling
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+
+</p>
+
+---
+
+# AI / Machine Learning Expertise
+
+| Domain | Proficiency | Details |
+|---------|------------|---------|
+| Natural Language Processing | ⭐⭐⭐⭐⭐ | Multilingual NLP, Evaluation Metrics, LLM Pipelines |
+| Large Language Models | ⭐⭐⭐⭐⭐ | GPT, Command R+, Ollama, Prompt Engineering |
+| Machine Translation | ⭐⭐⭐⭐⭐ | IndicTRANS2, FLORES-200, BLEU, COMET |
+| Text Summarization | ⭐⭐⭐⭐⭐ | IndicBART, XLSum, Cross-lingual Summarization |
+| Deep Learning | ⭐⭐⭐⭐☆ | PyTorch, TensorFlow, Transfer Learning |
+| Computer Vision | ⭐⭐⭐⭐☆ | Alzheimer's Detection, ResNet, TorchCam |
+| Data Science | ⭐⭐⭐⭐☆ | Pandas, NumPy, Scikit-Learn, Statistical Analysis |
+| Full Stack AI Applications | ⭐⭐⭐⭐⭐ | React, Flask, PostgreSQL, JWT, REST APIs |
+| AI Evaluation | ⭐⭐⭐⭐⭐ | ROUGE, BLEURT, COMET, GPTScore, G-Eval |
+| Product Engineering | ⭐⭐⭐⭐☆ | Enterprise AI Products & Scalable Software |
+
+---
+
+<p align="center">
+
+### Core AI Ecosystem
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,react,nodejs,mongodb,postgres,git"/>
+
+</p>
+
+---
+
+> *"Building intelligent systems that combine rigorous research, scalable engineering, and meaningful real-world impact."*
