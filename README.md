@@ -30,8 +30,8 @@
 <img src="https://img.shields.io/badge/Mumbai,%20India-18181B?style=for-the-badge&logo=googlemaps&logoColor=8B5CF6"/>
 </a>
 
-<a href="https://portfolio.example.com">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="(https://kalmitkulkarni.duckdns.org/)">
+<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/kalmitkulkarni1012">
