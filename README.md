@@ -26,27 +26,29 @@
 
 <p align="center">
 
+
 <a href="https://maps.google.com/?q=Mumbai,India">
-<img src="https://img.shields.io/badge/Mumbai,%20India-18181B?style=for-the-badge&logo=googlemaps&logoColor=8B5CF6"/>
+  <img src="https://img.shields.io/badge/Mumbai,%20India-18181B?style=for-the-badge&logo=googlemaps&logoColor=8B5CF6" alt="Location: Mumbai, India"/>
 </a>
 
-<a href="(https://kalmitkulkarni.duckdns.org/)">
-<img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://kalmitkulkarni.duckdns.org/">
+  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 
 <a href="https://linkedin.com/in/kalmitkulkarni1012">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-4338CA?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-4338CA?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
 </a>
 
-<a href="mailto:kulkarnikalmit@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:kulkarnikal@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact"/>
 </a>
 
 <a href="https://github.com/TechKnight10">
-<img src="https://img.shields.io/badge/GitHub-TechKnight10-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-TechKnight10-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
 </a>
 
 </p>
+
 
 <p align="center">
 
